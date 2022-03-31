@@ -3,7 +3,7 @@ import HomeSection2 from './HomeSection2';
 import HomeSection3 from './HomeSection3';
 
 function App() {
-    return (
+    return (    
         <div>
             <HomeSection1/>
             <HomeSection2/>
