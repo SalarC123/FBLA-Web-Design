@@ -25,3 +25,6 @@ Users need to start by making an account first. Once they do this, they can requ
 <br/>
 <br/>
 • Custom Ink (https://www.customink.com/) - website for generating custom clothing designs, used for merch page
+<br/>
+<br/>
+• Undraw (https://undraw.co) - Open source SVG graphics for public use, used on intro page
